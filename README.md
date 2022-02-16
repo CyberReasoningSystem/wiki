@@ -1,19 +1,34 @@
 # Wiki 📖
 
-## Bird's Eye View 🦅
+## Planning 🦅
+
+### First Semester
 
 - [x] Research about the state of the art in the field of cyber reasoning systems
-- [ ] Modules implementation
-    - [ ] Dataset module
-    - [ ] Vulnerability detection module
-        - [x] Attack surface approximation submodule
-        - [ ] Fuzzing submodule
-            - [ ] Research about the state of the art and tools for each technique that is involved
-            - [ ] Develop the module in a separate repository
-        - [ ] Dynamic taint analysis submodule
-    - [ ] Exploit generation module
-    - [ ] Healing module
-- [ ] Groom of the repositories
+- [x] Research and implementation of modules
+    - [x] Dataset module
+    - [x] Attack surface approximation submodule of the vulnerability detection module
+- [x] Research report and presentation
+
+### Second Semester
+
+- [ ] Research and implementation of the vulnerability detection module, the goal being its completion
+    - [ ] Fuzzing submodule
+    - [ ] Taint analysis submodule
+- [ ] Research report and presentation
+
+### Later
+
+- [ ] Exploit generation module
+- [ ] Healing module
+- [ ] Public wiki with information about the project, from various sources:
+    - Private repositories with the research reports
+- [ ] Groom of the modules
     - [ ] Unit testing
     - [ ] Documentation improvements
     - [ ] Linting
+    - [ ] Logging
+- [ ] Groom of the repositories
+    - [ ] Visibility
+    - [ ] Hiding of the packages and releses
+    - [ ] Tags

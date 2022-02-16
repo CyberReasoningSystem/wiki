@@ -18,6 +18,9 @@
 
 - [Peach](https://github.com/MozillaSecurity/peach), a generational fuzzer
 - [AFL](https://github.com/google/AFL), a mutational fuzzer
+- [River](https://github.com/unibuc-cs/river), a fuzzer using AI
+- [boofuzz](https://github.com/jtpereyda/boofuzz), a network fuzzer based on specifications
+- [AFLNet](https://github.com/aflnet/aflnet), a greybox network fuzzer, based on AFL
 
 # Enumerations
 
