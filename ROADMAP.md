@@ -15,7 +15,8 @@
 - [ ] Modules implementation
     - [x] Dataset
     - [ ] Attack surface approximation
-        - [ ] Arguments fuzzing
+        - [ ] Arguments fuzzing with Docker automation and QBDI
+        - [ ] Click for CLI
     - [ ] Vulnerability detection
         - [ ] Files fuzzing
         - [ ] Arguments fuzzing
@@ -38,6 +39,8 @@
        - [ ] Static type checking
        - [ ] Formatting
        - [ ] Linting
+       - [ ] Visual Studio Code configuration
+       - [ ] Poetry packages management
        - [ ] Documentation (maybe in a wiki)
     - All
         - [ ] Public visibility
