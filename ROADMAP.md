@@ -44,3 +44,4 @@
         - [ ] Resources
         - [ ] Hiding the packages and releases
         - [ ] Licenses
+- [ ] Pushing our awesome repositories into [a public list](https://github.com/sindresorhus/awesome)
