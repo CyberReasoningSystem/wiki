@@ -1,5 +1,10 @@
 # Changelog
 
+## 20220816 - @iosifache
+
+- Implements files fuzzing with the same container used for `stdin` fuzzing
+- Implements arguments fuzzing with a custom șustă in C
+
 ## 20220802 - @iosifache
 
 - Implementing the effective fuzzer by orchestrating the QBDI analysis and generation of arguments sequence
