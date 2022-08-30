@@ -1,9 +1,18 @@
 # Changelog
 
+## 20220830 - @iosifache
+
+- Finishing the CLI module testing
+- Pushing all the local changes into repos
+
+## 20220823 - @iosifache
+
+- Starting the CLI module testing
+
 ## 20220816 - @iosifache
 
-- Implements files fuzzing with the same container used for `stdin` fuzzing
-- Implements arguments fuzzing with a custom șustă in C
+- Implementation of files fuzzing with the same container used for `stdin` fuzzing
+- Implementation of arguments fuzzing with a custom șustă in C
 
 ## 20220802 - @iosifache
 
