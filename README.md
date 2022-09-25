@@ -13,7 +13,6 @@ This is a meta-repository containing various information about the OpenCRS proje
 ├── sops/                       Folder contanining SOPs
 ├── CHANGELOG.md                File contanining 3-tuples with date, name and
 |                               solved tasks
-├── IDEAS.md                    Ideas for further development
 ├── README.md                   This file
 ├── REPOSITORIES_INDEX.md       Index for repositories in the whole organization
 └── ROADMAP.md                  Project roadmap
