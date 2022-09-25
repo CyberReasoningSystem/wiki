@@ -14,26 +14,20 @@
 
 - [ ] Modules implementation
     - [x] Dataset
-    - [ ] Attack surface approximation
-        - [ ] Arguments fuzzing with Docker automation and QBDI
-        - [ ] Click for CLI
-    - [ ] Vulnerability detection
-        - [ ] Files fuzzing
-        - [ ] Arguments fuzzing
-        - [ ] Setting ASan via static binary rewriting
-        - [ ] Timeout
-        - [ ] Minimal CLI interface
+    - [x] Attack surface approximation
+    - [x] Vulnerability detection
     - [ ] Vulnerability analysis
     - [ ] Exploit generation
     - [ ] Healing
     - [ ] Signature generation
 - [ ] Integration testing
-- [ ] Unified configuration
+- [ ] Unified configuration, starting from `configuration.py` classes
 
 ### Open Sourcing
 
 - [ ] Repositories grooming
     -  Only for the functional ones
+       - [ ] Uniform command line interfaces
        - [ ] Logging
        - [ ] Type annotation
        - [ ] Static type checking
@@ -47,4 +41,5 @@
         - [ ] Resources
         - [ ] Hiding the packages and releases
         - [ ] Licenses
+        - [ ] Uniform `README.md` files
 - [ ] Pushing our awesome repositories into [a public list](https://github.com/sindresorhus/awesome)
