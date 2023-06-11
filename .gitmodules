@@ -1,6 +1,0 @@
-[submodule "docs/first_semester_research"]
-	path = docs/first_semester_research
-	url = https://github.com/CyberReasoningSystem/first_semester_research
-[submodule "docs/second_semester_research"]
-	path = docs/second_semester_research
-	url = https://github.com/CyberReasoningSystem/second_semester_research
